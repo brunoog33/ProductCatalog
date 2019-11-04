@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\bruno\\Documents\\Projetos\\Cursos\\Api C#\\ProductCatalog\\ProductCatalog.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "ProductCatalog",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
